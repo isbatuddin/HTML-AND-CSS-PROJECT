@@ -7,7 +7,7 @@ This is a simple HTML and CSS project that showcases a biography of Ed Sheeran. 
 
 ## 🚀 Live Demo
 
-[View Live Project Here](https://yourusername.github.io/your-repo-name/)
+[Ed Sheeran Bio](https://codepen.io/isbatuddin/pen/xbKVWBY)
 
 ---
 
