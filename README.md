@@ -1,26 +1,13 @@
 # HTML-AND-CSS-PROJECT
-# HTML and CSS Project: Ed Sheeran Biography
 
-This is a simple HTML and CSS project that showcases a biography of Ed Sheeran. It features a clean layout, interactive elements like a quiz and tabs, and a design inspired by Ed's favorite color—yellow.
+## 1. **Library Registration Form - Multi-Step**
+   🚪 **[Hogwarts Library Registration Form](https://codepen.io/isbatuddin/pen/raBeKqB)**  
+   A multi-step registration form for Hogwarts Library, designed with HTML and CSS.
 
----
+## 2. **Ed Sheeran Biography**
+   🎤 **[Ed Sheeran Biography](https://codepen.io/isbatuddin/pen/xbKVWBY)**  
+   A stylish biography of Ed Sheeran, highlighting his journey and career.
 
-## 🚀 Live Demo
-
-<a href="https://codepen.io/isbatuddin/pen/xbKVWBY" target="_blank">Ed Sheeran Bio</a>
-<a [href="https://codepen.io/isbatuddin/pen/xbKVWBY](https://codepen.io/isbatuddin/pen/raBeKqB)" target="_blank">Multi-Step Form</a>
-
----
-
-## 📂 Project Structure
-
-| File/Folder        | Description                                         |
-|--------------------|-----------------------------------------------------|
-| `index.html`       | Main HTML file for the project layout and structure.|
-| `styles.css`       | CSS file for styling and layout.                   |
-| `/assets/images/`  | Folder containing images used in the project.       |
-
----
 
 ## 📌 Features
 
