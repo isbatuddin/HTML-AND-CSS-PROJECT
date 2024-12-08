@@ -7,7 +7,7 @@ This is a simple HTML and CSS project that showcases a biography of Ed Sheeran. 
 
 ## 🚀 Live Demo
 
-[Ed Sheeran Bio](https://codepen.io/isbatuddin/pen/xbKVWBY)
+[Ed Sheeran Bio](https://codepen.io/isbatuddin/pen/xbKVWBY){:target="_blank"}
 
 ---
 
